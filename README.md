@@ -13,6 +13,11 @@ This repository contains the slides and resources from the talk *Version Control
 1. [Official Git Tutorial](https://git-scm.com/book/)
 1. [Awesome Git (Collection of resources)](https://github.com/dictcp/awesome-git)
 
+## Cheatsheets
+
+1. [By GitHub](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/)
+2. [By Atlassian](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+
 ## Other resources for developers
 
 Access to trials and services for free.
